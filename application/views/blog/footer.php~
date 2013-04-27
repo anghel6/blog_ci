@@ -1,0 +1,53 @@
+	<div id="footer-wrapper">
+	
+		<!-- column-one -->
+		<div id="footer"><div class="col-one">	
+	
+			<h3>Image Gallery </h3>					
+				<p class="thumbs">
+					<a href="index.html"><img src="<?php echo base_url();?>assets/img/thumb.jpg" width="40" height="40" alt="thumbnail" /></a>
+					<a href="index.html"><img src="<?php echo base_url();?>assets/img/thumb.jpg" width="40" height="40" alt="thumbnail" /></a>
+					<a href="index.html"><img src="<?php echo base_url();?>assets/img/thumb.jpg" width="40" height="40" alt="thumbnail" /></a>
+					<a href="index.html"><img src="<?php echo base_url();?>assets/img/thumb.jpg" width="40" height="40" alt="thumbnail" /></a>
+					<a href="index.html"><img src="<?php echo base_url();?>assets/img/thumb.jpg" width="40" height="40" alt="thumbnail" /></a>
+					<a href="index.html"><img src="<?php echo base_url();?>assets/img/thumb.jpg" width="40" height="40" alt="thumbnail" /></a>	
+					<a href="index.html"><img src="<?php echo base_url();?>assets/img/thumb.jpg" width="40" height="40" alt="thumbnail" /></a>
+					<a href="index.html"><img src="<?php echo base_url();?>assets/img/thumb.jpg" width="40" height="40" alt="thumbnail" /></a>													
+					<a href="index.html"><img src="<?php echo base_url();?>assets/img/thumb.jpg" width="40" height="40" alt="thumbnail" /></a>
+					<a href="index.html"><img src="<?php echo base_url();?>assets/img/thumb.jpg" width="40" height="40" alt="thumbnail" /></a>
+					<a href="index.html"><img src="<?php echo base_url();?>assets/img/thumb.jpg" width="40" height="40" alt="thumbnail" /></a>	
+					<a href="index.html"><img src="<?php echo base_url();?>assets/img/thumb.jpg" width="40" height="40" alt="thumbnail" /></a>
+				</p>	
+		
+			<h3>Resources</h3>
+
+                <p>
+                Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec libero. Suspendisse bibendum.
+			    Cras id urna. Morbi tincidunt, orci ac convallis aliquam, lectus turpis varius lorem, eu
+			    posuere nunc justo tempus leo.
+                </p>
+
+				<ul class="footer-list">				
+                    <li><a href="http://blog.pisyek.com/tag/codeigniter/" title="Codeigniter">CodeIgniter -
+                    <span> View more tutorials on CodeIgniter here.</span></a>
+                    </li>
+                    <li><a href="http://blog.pisyek.com/2012/02/joomla-2-5-beginners-guide-free-download/" title="Joomla!">Joomla! 2.5 -
+                    <span> Download Joomla! 2.5 Beginner's guide free!</span></a>
+                    </li>
+                    <li><a href="http://blog.pisyek.com/2011/07/joomla-1-7-beginner-s-guide-free-download/" title="Joomla!">Joomla! 1.7 -
+                    <span> Download Joomla! 1.7 Beginner's guide free!</span></a>
+                    </li>
+                    <li><a href="http://blog.pisyek.com/tag/photoshop/" title="Photoshop">Photoshop -
+                    <span> Posts related to graphic and photoshop tutorials</span></a>
+                    </li>
+                    <li><a href="http://blog.pisyek.com/tag/campuscamp/" title="Campus Camp">CampusCamp -
+                    <span> What is it?</span></a>
+                    </li>
+                    <li><a href="http://bit.ly/dataklhost" title="Web Hosting">Web Hosting -
+                    <span>Affordable web hosting for Malaysians!</span></a>
+                    </li>
+				</ul>			
+						
+		</div></div>
+		
+		
